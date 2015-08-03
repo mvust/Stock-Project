@@ -1,0 +1,7 @@
+<add/remove a ticker>
+AAPL,Apple Inc.
+AUDC,AudioCodes Ltd.
+GOOGL,Google Inc.
+IBM,International Business Machines Corporation
+MSFT,Microsoft Corporation
+YHOO,Yahoo! Inc.
